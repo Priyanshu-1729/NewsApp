@@ -1,0 +1,56 @@
+{
+  "status": "ok",
+  "totalResults": 15448,
+  "articles": [
+    {
+      "source": { "id": "handelsblatt", "name": "Handelsblatt" },
+      "author": "Christian Rickens",
+      "title": "Elektromobilität: Ein Trumm mit vielen Tricks – der BMW iX xDrive 50 im Handelsblatt-Autotest",
+      "description": "Das große Elektro-SUV von BMW polarisiert - und weckt auch bei unserem Tester einige Vorurteile. Nicht alle kann er im Test entkräften.",
+      "url": "https://www.handelsblatt.com/mobilitaet/elektromobilitaet/elektromobilitaet-ein-trumm-mit-vielen-tricks-der-bmw-ix-xdrive-50-im-handelsblatt-autotest/28327172.html",
+      "urlToImage": "https://www.handelsblatt.com/images/bmw-ix/28497118/2-format2003.jpg",
+      "publishedAt": "2022-07-14T04:54:17Z",
+      "content": "Wuchtige ErscheinungDer BMW iX polarisiert mit seiner bulligen Optik.\r\nDüsseldorf Dieser Autotest ist eine Fahrt gegen meine Vorurteile und zwar gleich drei davon. Erstens: SUVs sind so groß wie über… [+1261 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Technews.tw" },
+      "author": "MoneyDJ",
+      "title": "做空機構 Hindenburg 轉多力挺，Twitter 股價飆近 8%",
+      "description": "特斯拉（Tesla）執行長馬斯克（Elon Musk）先前主動出擊收購 Twitter，Twitter 對此做出妥協，但後來馬斯克卻突然喊卡，Twitter 不滿被耍，怒告馬斯克違約。知名做空機構 Hindenburg 認為，馬斯克將被迫完成收購，因此轉為做多 Twitter，帶動 Twitter ...",
+      "url": "https://finance.technews.tw/2022/07/14/hindenburg-goes-long-on-twitter-bets-against-musk/",
+      "urlToImage": "https://img.technews.tw/wp-content/uploads/2021/11/16102052/brett-jordan-YdHjEwOVomc-unsplash-e1637029269334.jpg",
+      "publishedAt": "2022-07-14T04:45:58Z",
+      "content": "TeslaElon Musk TwitterTwitter Twitter Hindenburg Twitter Twitter 7.9%\r\nHindenburg 713TwitterTwitterTwitterTwitter54.20440Twitter\r\nHindenburgNate AndersonTwitter\r\n5HindenburgTwitterHindenburgTwitterTw… [+151 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Gadgets360.com" },
+      "author": "Reuters",
+      "title": "Hyundai Aims to Take on Tesla With Launch of Ioniq 6 First Electric Sedan",
+      "description": "Hyundai Motor on Thursday announced the launch of Ioniq 6, its first electric sedan. The South Korean manufacturer aims to grab a bigger share of the electric vehicle market from leader Tesla. It plans to launch 31 electric models through 2030, expanding its …",
+      "url": "https://gadgets360.com/transportation/news/hyundai-ioniq-6-ev-sedan-launch-tesla-competition-electric-vehicles-3156101",
+      "urlToImage": "https://i.gadgets360cdn.com/large/hyundai_ioniq6_ev_hyundai_main_1657774219987.jpg",
+      "publishedAt": "2022-07-14T04:42:36Z",
+      "content": "Hyundai Motor Co on Thursday launched its first electric sedan, Ioniq 6, which the South Korean automaker is betting will help it grab a bigger share of the electric vehicle (EV) market dominated by … [+2254 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Aajtak.in" },
+      "author": "aajtak.in",
+      "title": "आज का दिन: वेस्ट एशिया का क्वाड कहे जा रहे नए-नवेले एलायंस I2U2 का मकसद क्या है?",
+      "description": "वेस्ट एशिया का क्वाड कहे जा रहे नए-नवेले एलायंस I2U2 का मकसद क्या है? ग्राउंड जीरो से सुनिए, बीती रात श्रीलंका में क्या हुआ, कैसे हैं ताजा हालात? अगले साल के बोर्ड इम्तिहानों में किस तरह के बदलाव हो सकते हैं? ट्विटर के साथ झिक-झिक में फंसे एलन मस्क की इलेक्ट्…",
+      "url": "https://www.aajtak.in/india/news/story/aaj-ka-din-i2u2-west-asia-quad-india-israel-uae-us-ntc-1499119-2022-07-14",
+      "urlToImage": "https://akm-img-a-in.tosshub.com/aajtak/images/story/202207/shri-sixteen_nine.jpg",
+      "publishedAt": "2022-07-14T04:37:14Z",
+      "content": "Copyright © 2022 Living Media India Limited. For reprint rights: Syndications Today"
+    },
+    {
+      "source": { "id": null, "name": "Index.hu" },
+      "author": "Kovács Ferenc Dávid",
+      "title": "Otthagyta a Teslát a mérnök, aki megalkotta Autopilotot",
+      "description": "Otthagyta a Teslát a mérnök, aki megalkotta Autopilotot - A hírre a vállalat részvényei 1 százalékkal, 704 dollárra estek.",
+      "url": "https://index.hu/techtud/2022/07/14/elon-musk-tesla-onvezeto-auto/",
+      "urlToImage": "https://index.hu/assets/images/facebook_logo.png?v5",
+      "publishedAt": "2022-07-14T04:37:00Z",
+      "content": "Karpathy távozása, kritikus idszakban történik, mivel a Tesla vezérigazgatója, Elon Musk még az idén szeretné elérni azt, hogy kocsijai teljesen önvezetek legyenek, miután a korábbi céldátumokat már … [+1153 chars]"
+    }
+  ]
+}
