@@ -12,29 +12,27 @@ import {
 import About from './Components/About';
 
 export default class App extends Component {
+  pageSize =5;
+  apiKey = "1844a5c147db4e7d9c4d9a714995142a"
   render() {
     return (
       <>
         <BrowserRouter>
           <Navbar />
           <Routes>
-            <Route path="/" element={<News apiKey="269fc3ff40c54bc8a3879577db246176" category="" pageSize={6} country="in" />} />
-            <Route path="/about" element={<About mode="light"/>} />
-            <Route path="/business" element={<News apiKey="269fc3ff40c54bc8a3879577db246176" category="business" pageSize={6} source="business" country="in" />} />
-            <Route path="/entertainment" element={<News apiKey="269fc3ff40c54bc8a3879577db246176" category="entertainment" pageSize={6} source="entertainment" country="in" />} />
-            <Route path="/general" element={<News apiKey="269fc3ff40c54bc8a3879577db246176" category="general" pageSize={6} source="general" country="in" />} />
-            <Route path="/health" element={<News apiKey="269fc3ff40c54bc8a3879577db246176" category="health" pageSize={6} source="health" country="in" />} />
-            <Route path="/science" element={<News apiKey="269fc3ff40c54bc8a3879577db246176" category="science" pageSize={6} source="science" country="in" />} />
-            <Route path="/sports" element={<News apiKey="269fc3ff40c54bc8a3879577db246176" category="sports" pageSize={6} source="sports" country="in" />} />
-            <Route path="/technology" element={<News apiKey="269fc3ff40c54bc8a3879577db246176" category="technology" source="technology" pageSize={6} country="in" />} />
-          </Routes>
+            <Route exact path="/" element={<News key = "home" apiKey={this.apiKey} category="" pageSize={this.pageSize} country="in" />} />
+            <Route exact path="/about" element={<About mode="light"/>} />
+            <Route exact path="/business" element={<News key = "business" apiKey={this.apiKey}  category="business" pageSize={this.pageSize}  country="in" />} />
+            <Route exact path="/entertainment" element={<News key = "entertainment" apiKey={this.apiKey} category="entertainment" pageSize={this.pageSize} country="in" />} />
+            <Route exact path="/general" element={<News key = "general" apiKey={this.apiKey} category="general" pageSize={this.pageSize}  country="in" />} />
+            <Route exact path="/health" element={<News key = "health" apiKey={this.apiKey} category="health" pageSize={this.pageSize}  country="in" />} />
+            <Route exact path="/science" element={<News key = "science" apiKey={this.apiKey} category="science" pageSize={this.pageSize}  country="in" />} />
+            <Route exact path="/sports" element={<News key = "sports" apiKey={this.apiKey} category="sports" pageSize={this.pageSize}  country="in" />} />
+            <Route exact path="/technology" element={<News key = "technology" apiKey={this.apiKey} category="technology"  pageSize={this.pageSize} country="in" />} />
+          </Routes> 
         </BrowserRouter>
       </>
 
-      // <div>
-      //     <Navbar/>
-      //     <News apiKey="269fc3ff40c54bc8a3879577db246176" category="science" pageSize={5} country = "in"/>
-      // </div>
     )
   }
 }
