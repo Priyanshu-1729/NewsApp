@@ -12,7 +12,7 @@ import {
 import About from './Components/About';
 
 export default class App extends Component {
-  pageSize =5;
+  pageSize = 6;
   apiKey = "1844a5c147db4e7d9c4d9a714995142a"
   render() {
     return (
